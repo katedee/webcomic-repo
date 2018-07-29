@@ -1,13 +1,13 @@
 # Site settings
-title: Comical Jekyll Theme
+title: Hey Kate Dee
 email: 
 
 keywords: webcomic, comic
 description: > # this means to ignore newlines until "baseurl:"
-  A webcomic theme for jekyll.
+  Online comics site of Kate Drwecka
 
 
-baseurl: https://chrisanthropic.github.io/comical-jekyll-theme
+# baseurl: https://chrisanthropic.github.io/comical-jekyll-theme
 url: / #Leave this, change the baseurl.
 
 # Exclude our ruby stuff
